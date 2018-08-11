@@ -1,6 +1,5 @@
-# lunarjs
+# 农历公历整合插件（jQuery）
 
-Solar &amp; Lunar Date chooser
 
 ## 用法
 
